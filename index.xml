@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Na Jin&#39;s Blog</title>
+    <link>https://codingnj.github.io/en/</link>
+    <description>Recent content on Na Jin&#39;s Blog</description>
+    <image>
+      <title>Na Jin&#39;s Blog</title>
+      <url>https://codingnj.github.io/en/images/papermod-cover.png</url>
+      <link>https://codingnj.github.io/en/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Dec 2023 11:14:44 -0500</lastBuildDate>
+    <atom:link href="https://codingnj.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Christmas Eve</title>
+      <link>https://codingnj.github.io/en/posts/info0000/</link>
+      <pubDate>Sun, 24 Dec 2023 11:14:44 -0500</pubDate>
+      <guid>https://codingnj.github.io/en/posts/info0000/</guid>
+      <description>Happy Christmas Eve
+The company&amp;rsquo;s annual party happened on December 21.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://codingnj.github.io/en/posts/about/</link>
+      <pubDate>Fri, 22 Dec 2023 05:52:19 -0500</pubDate>
+      <guid>https://codingnj.github.io/en/posts/about/</guid>
+      <description>Welcome to my blog
+It contains history, art, technology, life stories etc.
+It records every little thought in my life.
+Contact
+pkim1308@gmail.com</description>
+    </item>
+  </channel>
+</rss>
