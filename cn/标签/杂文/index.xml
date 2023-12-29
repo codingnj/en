@@ -15,9 +15,9 @@
     <atom:link href="https://codingnj.github.io/en/cn/%E6%A0%87%E7%AD%BE/%E6%9D%82%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023平安夜纪念朱令案</title>
-      <link>https://codingnj.github.io/en/cn/posts/info/info0000/</link>
+      <link>https://codingnj.github.io/en/cn/posts/essay/es0000/</link>
       <pubDate>Sun, 24 Dec 2023 11:14:38 -0500</pubDate>
-      <guid>https://codingnj.github.io/en/cn/posts/info/info0000/</guid>
+      <guid>https://codingnj.github.io/en/cn/posts/essay/es0000/</guid>
       <description>今天是平安夜。
 朱令于平安夜的前一天因脑瘤病逝。
 所幸的是，她刚刚过完了第五十个生日；不幸的是，造成她一生悲剧的铊中毒案件仍为悬案。
@@ -59,6 +59,24 @@
 张捷是朱令的律师，也是朱家几十年的近邻。他也对朱令事件发表了自己的看法。
 【张捷杂谈】送别朱令、追凶不止是我们的责任！
 最后，祝福朱令（原名朱令令）平安夜平安！There will be no more pain in heaven!</description>
+    </item>
+    <item>
+      <title>写在前面的话</title>
+      <link>https://codingnj.github.io/en/cn/posts/about/</link>
+      <pubDate>Fri, 22 Dec 2023 05:52:19 -0500</pubDate>
+      <guid>https://codingnj.github.io/en/cn/posts/about/</guid>
+      <description>欢迎您！
+我是一名业余作家。
+2023年open AI大火特火，唤醒我尘封已久的一项爱好-记录。
+个人的只言片语，所思所想，对于浩瀚宇宙渺若尘埃。
+面对未来的人工智慧，更是无足轻重。
+记录下来的一切，对于生而为人的我，就是活着的意义。
+彷徨踯躅，但仍需砥砺前行！
+本博客分为四个部分：
+消息 杂文 技术 小说 感谢您光临小站，如若有缘，可以email我。
+畅谈古今，也是快事。
+联系我
+pkim1308@gmail.com</description>
     </item>
   </channel>
 </rss>
