@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://codingnj.github.io/en/categories/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
+  </url><url>
     <loc>https://codingnj.github.io/en/posts/fic/fictionresource/</loc>
     <lastmod>2024-01-01T16:35:47-05:00</lastmod>
     <xhtml:link
@@ -14,6 +17,15 @@
                 hreflang="en"
                 href="https://codingnj.github.io/en/posts/fic/fictionresource/"
                 />
+  </url><url>
+    <loc>https://codingnj.github.io/en/tags/fictions/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/series/fictions/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/categories/fictions/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/</loc>
     <lastmod>2024-01-01T16:35:47-05:00</lastmod>
@@ -41,8 +53,11 @@
                 href="https://codingnj.github.io/en/posts/"
                 />
   </url><url>
-    <loc>https://codingnj.github.io/en/categories/</loc>
-    <lastmod>2023-12-24T11:14:44-05:00</lastmod>
+    <loc>https://codingnj.github.io/en/series/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/tags/</loc>
+    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/tags/essays/</loc>
     <lastmod>2023-12-24T11:14:44-05:00</lastmod>
@@ -51,12 +66,6 @@
     <lastmod>2023-12-24T11:14:44-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/categories/essays/</loc>
-    <lastmod>2023-12-24T11:14:44-05:00</lastmod>
-  </url><url>
-    <loc>https://codingnj.github.io/en/series/</loc>
-    <lastmod>2023-12-24T11:14:44-05:00</lastmod>
-  </url><url>
-    <loc>https://codingnj.github.io/en/tags/</loc>
     <lastmod>2023-12-24T11:14:44-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/posts/essay/es0000/</loc>
