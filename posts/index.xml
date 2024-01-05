@@ -11,8 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 16:35:47 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 22:46:49 -0500</lastBuildDate>
     <atom:link href="https://codingnj.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code for Nested Lists</title>
+      <link>https://codingnj.github.io/en/posts/tech/tech0000/</link>
+      <pubDate>Thu, 04 Jan 2024 22:46:49 -0500</pubDate>
+      <guid>https://codingnj.github.io/en/posts/tech/tech0000/</guid>
+      <description>line1 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
+line2 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
+line3 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
+map = [line1, line2, line3]
+print(&amp;ldquo;Hiding your treasure! X marks the spot.&amp;rdquo;)
+position_list1 = [&amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo;]
+position_list2 = [&amp;ldquo;1&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, &amp;ldquo;3&amp;rdquo;]
+position = input(&amp;ldquo;Where do you want to put your treasure? &amp;ldquo;)
+while len(position) != 2 or position[0].upper() not in position_list1 or position[1] not in position_list2:
+print(&amp;quot;Input the correct position (e.g., &#39;A1&#39;, &#39;B2&#39;, etc.)&amp;quot;) position = input(&amp;quot;Where do you want to put your treasure?</description>
+    </item>
     <item>
       <title>Fiction Reources</title>
       <link>https://codingnj.github.io/en/posts/fic/fictionresource/</link>
