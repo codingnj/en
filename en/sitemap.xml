@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://codingnj.github.io/en/posts/tech/tech0000/</loc>
-    <lastmod>2024-01-04T22:46:49-05:00</lastmod>
+    <loc>https://codingnj.github.io/en/categories/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/tags/info/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/series/info/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/categories/info/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/</loc>
-    <lastmod>2024-01-04T22:46:49-05:00</lastmod>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -19,7 +28,7 @@
                 />
   </url><url>
     <loc>https://codingnj.github.io/en/posts/</loc>
-    <lastmod>2024-01-04T22:46:49-05:00</lastmod>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -31,8 +40,20 @@
                 href="https://codingnj.github.io/en/posts/"
                 />
   </url><url>
-    <loc>https://codingnj.github.io/en/categories/</loc>
-    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
+    <loc>https://codingnj.github.io/en/series/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/posts/info/info0003/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/tags/</loc>
+    <lastmod>2024-03-11T21:36:51-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/posts/info/info0002/</loc>
+    <lastmod>2024-03-11T19:31:12-04:00</lastmod>
+  </url><url>
+    <loc>https://codingnj.github.io/en/posts/tech/tech0000/</loc>
+    <lastmod>2024-01-04T22:46:49-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/posts/fic/fictionresource/</loc>
     <lastmod>2024-01-01T16:35:47-05:00</lastmod>
@@ -54,12 +75,6 @@
     <lastmod>2024-01-01T16:35:47-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/categories/fictions/</loc>
-    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
-  </url><url>
-    <loc>https://codingnj.github.io/en/series/</loc>
-    <lastmod>2024-01-01T16:35:47-05:00</lastmod>
-  </url><url>
-    <loc>https://codingnj.github.io/en/tags/</loc>
     <lastmod>2024-01-01T16:35:47-05:00</lastmod>
   </url><url>
     <loc>https://codingnj.github.io/en/tags/essays/</loc>

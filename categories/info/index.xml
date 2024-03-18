@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Na Jin&#39;s Blog</title>
-    <link>https://codingnj.github.io/en/posts/</link>
-    <description>Recent content in Posts on Na Jin&#39;s Blog</description>
+    <title>Info on Na Jin&#39;s Blog</title>
+    <link>https://codingnj.github.io/en/categories/info/</link>
+    <description>Recent content in Info on Na Jin&#39;s Blog</description>
     <image>
       <title>Na Jin&#39;s Blog</title>
       <url>https://codingnj.github.io/en/images/papermod-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2024 21:36:51 -0400</lastBuildDate>
-    <atom:link href="https://codingnj.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codingnj.github.io/en/categories/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Security, Medicare Fight Kicks Off With Biden Budget-WSJ</title>
       <link>https://codingnj.github.io/en/posts/info/info0003/</link>
@@ -35,54 +35,6 @@ WASHINGTON—President Biden’s budget blueprint will kick off an election-year
       <guid>https://codingnj.github.io/en/posts/info/info0002/</guid>
       <description>More Americans Are Treating Their 401(k)s Like Cash Machines Putting money in Pulling money out The 401(k) is doing double duty as both a retirement account and a source of emergency funds for more Americans.
 A record share of 401(k) account holders took early withdrawals from their accounts last year for financial emergencies, according to internal data from Vanguard Group. Overall, 3.6% of its plan participants did so last year, up from 2.</description>
-    </item>
-    <item>
-      <title>Code for Nested Lists</title>
-      <link>https://codingnj.github.io/en/posts/tech/tech0000/</link>
-      <pubDate>Thu, 04 Jan 2024 22:46:49 -0500</pubDate>
-      <guid>https://codingnj.github.io/en/posts/tech/tech0000/</guid>
-      <description>line1 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
-line2 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
-line3 = [&amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;, &amp;ldquo;😊&amp;rdquo;]
-map = [line1, line2, line3]
-print(&amp;ldquo;Hiding your treasure! X marks the spot.&amp;rdquo;)
-position_list1 = [&amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, &amp;ldquo;C&amp;rdquo;]
-position_list2 = [&amp;ldquo;1&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, &amp;ldquo;3&amp;rdquo;]
-position = input(&amp;ldquo;Where do you want to put your treasure? &amp;ldquo;)
-while len(position) != 2 or position[0].upper() not in position_list1 or position[1] not in position_list2:
-print(&amp;quot;Input the correct position (e.g., &#39;A1&#39;, &#39;B2&#39;, etc.)&amp;quot;) position = input(&amp;quot;Where do you want to put your treasure?</description>
-    </item>
-    <item>
-      <title>Fiction Reources</title>
-      <link>https://codingnj.github.io/en/posts/fic/fictionresource/</link>
-      <pubDate>Mon, 01 Jan 2024 16:35:47 -0500</pubDate>
-      <guid>https://codingnj.github.io/en/posts/fic/fictionresource/</guid>
-      <description>Here are some helpful sources for creating a novel.
-Text editor - Any editors are okay. I preper to use Goodle Doc, free and easy to access.
-Mind Mapping - https://app.diagrams.net
-The online novels platform - https://alphanovel.io</description>
-    </item>
-    <item>
-      <title>Zhuling&#39;s Christmas Eve</title>
-      <link>https://codingnj.github.io/en/posts/essay/es0000/</link>
-      <pubDate>Sun, 24 Dec 2023 11:14:44 -0500</pubDate>
-      <guid>https://codingnj.github.io/en/posts/essay/es0000/</guid>
-      <description>Merry Christmas!
-This case always makes me sad. It is a simple case but the crime suspect is still on the loose up to today.
-Woman whose mystery poisoning captivated China for decades dies By Chris Lau and Simone McCarthy, CNN 4 minute read Updated 3:13 AM EST, Mon December 25, 2023 A woman who was left incapacitated for decades after being poisoned as a college student in a high-profile cold case in China has died at the age of 50.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://codingnj.github.io/en/posts/about/</link>
-      <pubDate>Fri, 22 Dec 2023 05:52:19 -0500</pubDate>
-      <guid>https://codingnj.github.io/en/posts/about/</guid>
-      <description>Welcome
-I am an amateur writer.
-Blogging which is my one of paused long-standing hobbies, was awake by the popularity of open AI in 2023.
-My personal words or little thoughts are like tiny dusts in the vast universe.
-They are even nothing comparing with Artificial intelligence.
-The everything, however, I recorded is valuable for my life as a human being.
-Whether what I do is meaningful though, I still insist to start my blogging.</description>
     </item>
   </channel>
 </rss>
